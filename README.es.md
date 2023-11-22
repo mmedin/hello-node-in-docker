@@ -18,13 +18,13 @@ No es necesario que instales Node, NPM, ni ninguna otra herramienta relacionada.
 
 Es una sencilla aplicación Node que usa Express para mostrar un mensaje "hola mundo" en puerto 3002.
 
-https://github.com/mmedin/hello-node-in-docker/blob/main/app.js
+https://github.com/mmedin/hello-node-in-docker/blob/main/app.js#L1-L14
 
 ## El Dockerfile
 
 Es el archivo con las definiciones que necesitamos para construir nuestra imagen de container. Es también parte de este repo y viene con los comentarios como para entender lo que hace cada línea.
 
-https://github.com/mmedin/hello-node-in-docker/blob/main/Dockerfile
+https://github.com/mmedin/hello-node-in-docker/blob/main/Dockerfile#L1-L13
 
 ## El build
 
