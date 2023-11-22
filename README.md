@@ -24,7 +24,7 @@ https://github.com/mmedin/hello-node-in-docker/blob/d2574daaca6ece710b5bc83bbd18
 
 This is the file with the definitions we need to build our container image. It is also part of this repo and comes with comments to understand what each line does.
 
-https://github.com/mmedin/hello-node-in-docker/blob/main/Dockerfile#L1-L13
+https://github.com/mmedin/hello-node-in-docker/blob/ec8383511e3cc66417ebaaf390548b2840eee157/Dockerfile#L1-L13
 
 ## The build
 
