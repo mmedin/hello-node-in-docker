@@ -5,7 +5,8 @@ const PORT = process.env.PORT || 3002;
 
 app.get('/', (request, response) => {
  response.status(200).json({
-   message: 'Hello World from Docker! Hola Mundo desde Docker! ',
+   message_en: 'Hello World from Docker!',
+   message_es: 'Hola Mundo desde Docker!'
  });
 });
 
