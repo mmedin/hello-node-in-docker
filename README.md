@@ -18,7 +18,7 @@ You do not need to install Node, NPM, or any other related tools.
 
 This is a simple Node application that uses Express to display a "hello world" message on port 3002.
 
-https://github.com/mmedin/hello-node-in-docker/blob/main/app.js#L1-L14
+https://github.com/mmedin/hello-node-in-docker/blob/d2574daaca6ece710b5bc83bbd1839639356a1ca/app.js#L1-L14
 
 ## The Dockerfile
 
